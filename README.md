@@ -54,3 +54,7 @@
 
   The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
+#### CI and Code Quality
+
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
