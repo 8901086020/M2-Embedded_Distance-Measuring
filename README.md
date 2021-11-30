@@ -54,35 +54,3 @@
 
   The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
-# 4W's and 1'H :-
-
-- # What
-    An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive           ultrasonic pulses that relay back information about an object's proximity.
-- # Where
-
-
-- # When
-
-
-- # Why
-
-
-- # How
-
-
-
-## HIGH LEVEL REQUIREMENTS:-
-| ID | Description | Category | 
-| ----- | ----- | ------- | 
-|HLR01||technical|  
-|HLR02||technical|
-|HLR03||technical|
-|HLR04||technical|
-
-## LOW LEVEL REQUIREMENTS:-
-| ID | Description | Category | 
-| ----- | ----- | ------- |
-|LLR01||technical|  
-|LLR02||technical|
-|LLR03||technical|
-|LLR04||technical|
