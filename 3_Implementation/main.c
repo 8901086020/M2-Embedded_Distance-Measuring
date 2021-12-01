@@ -21,7 +21,7 @@
 
 #include <util/delay.h>
 #include <stdlib.h>
-#include "lcd/lcdlib.h"
+#include "lcdlib.h"
 #include "MACROS.h"
 
 static volatile int pulse_time = 0;
