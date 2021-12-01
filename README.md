@@ -56,4 +56,4 @@
 
 #### CI and Code Quality
 
-Codeay [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1d7b4943f0043759d5dfcf2d8fdbc73)](https://www.codacy.com/gh/8901086020/M2-Embedded_Distance-Measuring/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=8901086020/M2-Embedded_Distance-Measuring&amp;utm_campaign=Badge_Grade)
+Codeacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1d7b4943f0043759d5dfcf2d8fdbc73)](https://www.codacy.com/gh/8901086020/M2-Embedded_Distance-Measuring/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=8901086020/M2-Embedded_Distance-Measuring&amp;utm_campaign=Badge_Grade)
