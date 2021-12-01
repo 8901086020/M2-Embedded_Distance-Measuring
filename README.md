@@ -1,4 +1,7 @@
 # Avr_Ultrasonic
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2b3a1bd3ed7643369abfaa3c365d12ed)](https://app.codacy.com/gh/8901086020/M2-Embedded_Distance-Measuring?utm_source=github.com&utm_medium=referral&utm_content=8901086020/M2-Embedded_Distance-Measuring&utm_campaign=Badge_Grade_Settings)
+
   An ATMega328p based project that reads distance using ultrasonic sensor module, and displays it on Graphical LCD
 ## Introduction:-   
    The ultrasonic module used is the 4-pin HC-SR04, can be found here: https://www.sparkfun.com/products/13959.
