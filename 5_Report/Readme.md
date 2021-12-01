@@ -54,21 +54,21 @@ An ultrasonic sensor is an instrument that measures the distance to an object us
   I am using C programming language for Developing this distance measuring project using ultrasonic sensor.
 
 ## HIGH LEVEL REQUIREMENTS:-
-| ID | Description | Category | 
-| ----- | ----- | ------- | 
-|HLR01||technical|  
-|HLR02||technical|
-|HLR03||technical|
-|HLR04||technical|
+| ID | Description |  
+| ----- | ----- | 
+|HLR01|Used to avoid and obstacles with robots like biped robot, obstacle avoider robot, path finding robot etc 
+|HLR02|Used to measure the distance within a wide range of 2cm to 400cm
+|HLR03|Depth of certain places like wells,pits etc can be measured since the waves can penetrate through water
+
 
 ## LOW LEVEL REQUIREMENTS:-
-| ID | Description | Category | 
-| ----- | ----- | ------- |
-|LLR01||technical|  
-|LLR02||technical|
-|LLR03||technical|
-|LLR04||technical|
+| ID | Description | 
+| ----- | ----- |
 
+|LLR01|Power Supply:5v Dc  
+|LLR02|Measuring Angle:30 degree
+|LLR03|Trigger input pulse width:10uS TTL pulse
+|LLR04|Depth of certain places like wells pits etc can be measured since the waves can penetrate through water
 ## Connections Between AVR & HC-SR04
 
 - TRIG pin can be connected to any GPIO pin, and that pin will work as output from the MCU
