@@ -22,26 +22,37 @@
      sound_speed = 0.0343 cm/usec
      distance = 0.0343 * pulse_time / 2;
 ## Swot Analysis
+
 **STRENGTHS**   
    Ultrasonic sensors reflect sound off of objects, so the color or transparency have no effect on the sensor’s reading.
+
 **WEAKNESSES**  
    Ultrasonic sensors operate using sound, they are completely nonfunctional in a vacuum as there is no air for the sound to travel through.
+
 **OPPORTUNITIES**    
   The tech-based market has a huge opportunities in capturing the youth market. And this ultrasonic sensor based distance measuring is a one step further in future.
+
 **THREATS**  
   The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
+
 # 4W's and 1'H :-
+
 # What
     An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive           ultrasonic pulses that relay back information about an object's proximity.
+
 # Where
      It is used everywhere including in industry likely used in drone.
+
 # When
      It has to be deployed 2nd december2021
+
 # Why
      I am using this because it is used by blind people so s that they are not collide by any thing and it can be used in their stick.
 
+
 # How
     I am using C programming language for Developing this distance measuring project using ultrasonic sensor.
+
 ## HIGH LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
@@ -49,6 +60,7 @@
 |HLR02||technical|
 |HLR03||technical|
 |HLR04||technical|
+
 ## LOW LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- |
