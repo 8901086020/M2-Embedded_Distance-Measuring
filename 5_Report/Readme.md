@@ -64,7 +64,6 @@ An ultrasonic sensor is an instrument that measures the distance to an object us
 ## LOW LEVEL REQUIREMENTS:-
 | ID | Description | 
 | ----- | ----- |
-
 |LLR01|Power Supply:5v Dc  
 |LLR02|Measuring Angle:30 degree
 |LLR03|Trigger input pulse width:10uS TTL pulse
