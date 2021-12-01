@@ -21,17 +21,11 @@
    2.If an obstacle exists, the receiving sensor will sense the returning echo signal, as the sound wave will hit the obstacle and come back to the ultrasonic sensor, here the        ultrasonic module will put LOW on the echo pin to represent time taken starting from sending the signal until it has hit the obstacle and came all the way back to the            module again, so the time will represent time taken by the signal to pass the distance between the ultrasonic module and the obstacle twice. Using Speed of Sound, and            getting time taken by the signal, distance can be easily calculated.
 
      As sound_speed = 34300 cm/sec
-
      and time_one_way = pulse_time / 2; // where time_one_way = total time calculated by the sensor (pulse_time) divided by 2
-
      distance can be calculated as:
-
      distance = sound_speed * time_one_way;
-
      As time calculations will be in micro-seconds:
-
      sound_speed = 0.0343 cm/usec
-
      distance = 0.0343 * pulse_time / 2;
 
 ## Swot Analysis
