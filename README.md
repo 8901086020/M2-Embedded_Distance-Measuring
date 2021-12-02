@@ -1,4 +1,4 @@
-# Avr_Ultrasonic
+## Avr_Ultrasonic
   An ATMega328p based project that reads distance using ultrasonic sensor module, and displays it on Graphical LCD
 ## Introduction:-   
    The ultrasonic module used is the 4-pin HC-SR04, can be found here: https://www.sparkfun.com/products/13959.
@@ -30,22 +30,16 @@
 
 ## Swot Analysis
 
- 
-**STRENGTHS**   
-  
+**STRENGTHS**     
    Ultrasonic sensors reflect sound off of objects, so the color or transparency have no effect on the sensor’s reading.
   
 **WEAKNESSES**  
-
    Ultrasonic sensors operate using sound, they are completely nonfunctional in a vacuum as there is no air for the sound to travel through.
 
 **OPPORTUNITIES**    
-
   The tech-based market has a huge opportunities in capturing the youth market. And this ultrasonic sensor based distance measuring is a one step further in future.
 
-
 **THREATS**  
-
   The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
 #### CI and Code Quality
