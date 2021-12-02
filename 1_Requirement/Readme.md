@@ -1,4 +1,4 @@
-# Avr_Ultrasonic 
+## Avr_Ultrasonic 
   An ATMega328p based project that reads distance using ultrasonic sensor module, and displays it on Graphical LCD
 ## Introduction:-   
    The ultrasonic module used is the 4-pin HC-SR04, can be found here: https://www.sparkfun.com/products/13959.
@@ -35,22 +35,21 @@
 **THREATS**  
   The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
-# 4W's and 1'H :-
+## 4W's and 1'H :-
 
-# What
+## What
 An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive      ultrasonic pulses that relay back information about an object's proximity.
 
-# Where
+## Where
   It is used everywhere including in industry likely used in drone.
 
-# When
+## When
   It has to be deployed 2nd december2021
 
-# Why
+## Why
   I am using this because it is used by blind people so s that they are not collide by any thing and it can be used in their stick.
 
-
-# How
+## How
   I am using C programming language for Developing this distance measuring project using ultrasonic sensor.
 
 ## HIGH LEVEL REQUIREMENTS:-
@@ -59,7 +58,6 @@ An ultrasonic sensor is an instrument that measures the distance to an object us
 |HLR01|Used to avoid and obstacles with robots like biped robot, obstacle avoider robot, path finding robot etc  
 |HLR02|Used to measure the distance within a wide range of 2cm to 400cm
 |HLR03|Depth of certain places like wells,pits etc can be measured since the waves can penetrate through water
-
 
 ## LOW LEVEL REQUIREMENTS:-
 | ID | Description | 
