@@ -1,6 +1,6 @@
 ## Avr_Ultrasonic 
   An ATMega328p based project that reads distance using ultrasonic sensor module, and displays it on Graphical LCD
-## Introduction:-   
+## Introduction
    The ultrasonic module used is the 4-pin HC-SR04, can be found here: https://www.sparkfun.com/products/13959.
    Its sensing range is 2cm to 400cm
    It has VCC, GND pins for powering the module, and 2 pins to interface with the microcontroller.
@@ -35,7 +35,7 @@
 **THREATS**  
   The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
-## 4W's and 1'H :-
+## 4W's and 1'H 
 
 ## What
 An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive      ultrasonic pulses that relay back information about an object's proximity.
@@ -52,14 +52,14 @@ An ultrasonic sensor is an instrument that measures the distance to an object us
 ## How
   I am using C programming language for Developing this distance measuring project using ultrasonic sensor.
 
-## HIGH LEVEL REQUIREMENTS:-
+## HIGH LEVEL REQUIREMENTS
 | ID | Description | 
 | ----- | ----- | 
 |HLR01|Used to avoid and obstacles with robots like biped robot, obstacle avoider robot, path finding robot etc  
 |HLR02|Used to measure the distance within a wide range of 2cm to 400cm
 |HLR03|Depth of certain places like wells,pits etc can be measured since the waves can penetrate through water
 
-## LOW LEVEL REQUIREMENTS:-
+## LOW LEVEL REQUIREMENTS
 | ID | Description | 
 | ----- | ----- |
 |LLR01|Power Supply:5v Dc  
