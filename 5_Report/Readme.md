@@ -1,6 +1,6 @@
 ## Avr_Ultrasonic 
   An ATMega328p based project that reads distance using ultrasonic sensor module, and displays it on Graphical LCD
-## Introduction:-   
+## Introduction
    The ultrasonic module used is the 4-pin HC-SR04, can be found here: https://www.sparkfun.com/products/13959.
    Its sensing range is 2cm to 400cm
    It has VCC, GND pins for powering the module, and 2 pins to interface with the microcontroller.
@@ -35,7 +35,7 @@
 **THREATS**  
   The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
-## 4W's and 1'H :-
+## 4W's and 1'H 
 
 ## What
 An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive      ultrasonic pulses that relay back information about an object's proximity.
@@ -52,14 +52,14 @@ An ultrasonic sensor is an instrument that measures the distance to an object us
 ## How
   I am using C programming language for Developing this distance measuring project using ultrasonic sensor.
 
-## HIGH LEVEL REQUIREMENTS:-
+## HIGH LEVEL REQUIREMENTS
 | ID | Description |  
 | ----- | ----- | 
 |HLR01|Used to avoid and obstacles with robots like biped robot, obstacle avoider robot, path finding robot etc 
 |HLR02|Used to measure the distance within a wide range of 2cm to 400cm
 |HLR03|Depth of certain places like wells,pits etc can be measured since the waves can penetrate through water
 
-## LOW LEVEL REQUIREMENTS:-
+## LOW LEVEL REQUIREMENTS
 | ID | Description | 
 | ----- | ----- |
 |LLR01|Power Supply:5v Dc  
@@ -68,10 +68,9 @@ An ultrasonic sensor is an instrument that measures the distance to an object us
 |LLR04|Depth of certain places like wells pits etc can be measured since the waves can penetrate through water
 
 ## Connections Between AVR & HC-SR04
-
 - TRIG pin can be connected to any GPIO pin, and that pin will work as output from the MCU
 - ECHO pin is connected to INT0 pin (PD2), to use INT0 to detect changes in the echo output when going from LOW-to-HIGH to start counting the pulse width, and when going from   HIGH-  to-LOW to stop counting the pulse width and take the counted pulse_width value and translates it into a distance
-
-  ![embedded img](https://user-images.githubusercontent.com/63248297/144100791-69ff18b8-4e4f-4145-9371-58758fd19cd8.JPG)
-   ![embedded img2](https://user-images.githubusercontent.com/63248297/144189652-3d7117b6-58da-40ea-bf5a-ffcbd71314b6.JPG)
-![embedded img1](https://user-images.githubusercontent.com/63248297/144189902-0b28a0e6-b9ef-4566-87fa-143ab4e9969c.JPG)
+ 
+ ![embedded img](https://user-images.githubusercontent.com/63248297/144100791-69ff18b8-4e4f-4145-9371-58758fd19cd8.JPG)
+ ![embedded img2](https://user-images.githubusercontent.com/63248297/144189652-3d7117b6-58da-40ea-bf5a-ffcbd71314b6.JPG)
+ ![embedded img1](https://user-images.githubusercontent.com/63248297/144189902-0b28a0e6-b9ef-4566-87fa-143ab4e9969c.JPG)
