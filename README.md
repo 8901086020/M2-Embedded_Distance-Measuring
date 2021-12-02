@@ -1,6 +1,6 @@
 ## Avr_Ultrasonic
   An ATMega328p based project that reads distance using ultrasonic sensor module, and displays it on Graphical LCD
-## Introduction:-   
+## Introduction 
    The ultrasonic module used is the 4-pin HC-SR04, can be found here: https://www.sparkfun.com/products/13959.
 
    Its sensing range is 2cm to 400cm
