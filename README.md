@@ -42,6 +42,6 @@
 **THREATS**  
   The slower growth in technological innovation will also bring a significant threat in the upcoming dynamic world.
 
-#### CI and Code Quality
+## CI and Code Quality
 
 Codeacy [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a76efcb88a44217a081c3b6f07804fb)](https://www.codacy.com/gh/8901086020/M2-Embedded_Distance-Measuring/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=8901086020/M2-Embedded_Distance-Measuring&amp;utm_campaign=Badge_Grade)
